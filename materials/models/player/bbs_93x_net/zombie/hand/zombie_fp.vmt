@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\bbs_93x_net\zombie\hand\zombie_fp"
+	"$bumpmap" "models\player\bbs_93x_net\zombie\hand\zombie_fp_nm"
+	"$phong" "1"
+	"$phongBoost" "0.9"
+	"$phongExponent" "17"
+	"$phongTint" "[1 1 1]"
+	"$phongFresnelRanges" "[.2 .2 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "12"
+	"$rimlightboost" ".2"
+}
+
