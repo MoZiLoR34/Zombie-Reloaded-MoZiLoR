@@ -1,0 +1,19 @@
+"Console_C"
+{
+	"Map Ported By Press F"
+	{
+		"default"		"{red}Console: {green}Map Ported By Press F"
+	}
+	"[BROADCAST] Server will restart in 3 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 3 ..."
+	}
+	"[BROADCAST] Server will restart in 2 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 2 ..."
+	}
+	"[BROADCAST] Server will restart in 1 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 1 ..."
+	}
+}

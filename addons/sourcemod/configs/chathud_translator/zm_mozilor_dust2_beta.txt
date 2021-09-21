@@ -1,0 +1,27 @@
+"Console_C"
+{
+	"[BROADCAST] Server will be updated and restarted in 3 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will be updated and restarted in 3 ..."
+	}
+	"[BROADCAST] Server will be updated and restarted in 2 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will be updated and restarted in 2 ..."
+	}
+	"[BROADCAST] Server will be updated and restarted in 1 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will be updated and restarted in 1 ..."
+	}
+	"[BROADCAST] Server will restart in 3 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 3 ..."
+	}
+	"[BROADCAST] Server will restart in 2 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 2 ..."
+	}
+	"[BROADCAST] Server will restart in 1 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 1 ..."
+	}
+}

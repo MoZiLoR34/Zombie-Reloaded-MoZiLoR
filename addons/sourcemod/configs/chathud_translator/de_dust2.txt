@@ -1,0 +1,25 @@
+"Console_C"
+{
+	"[BROADCAST] Server will restart in 3 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 3 ..."
+	}
+	"[BROADCAST] Server will restart in 2 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 2 ..."
+	}
+	"[BROADCAST] Server will restart in 1 ..."
+	{
+		"default"		"{red}Console: {green}[BROADCAST] Server will restart in 1 ..."
+	}
+	"PEDRO IN 60 SECONDS!"
+	{
+		"default"		"{red}Console: {green}PEDRO IN 60 SECONDS!"
+		"hud"		"PEDRO IN 60 SECONDS!"
+	}
+	"PEDRO IN 120 SECONDS!"
+	{
+		"default"		"{red}Console: {green}PEDRO IN 120 SECONDS!"
+		"hud"		"PEDRO IN 120 SECONDS!"
+	}
+}
