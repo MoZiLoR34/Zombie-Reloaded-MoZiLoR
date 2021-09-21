@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\kuristaja\zombies\classic\zombie_classic_sheet"
+	"$bumpmap" "models\player\kuristaja\zombies\classic\zombie_classic_sheet_normal"
+
+	"$phong" "1"
+	"$phongexponent" "35"
+	"$phongboost" ".03"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$halflambert" "1"
+}

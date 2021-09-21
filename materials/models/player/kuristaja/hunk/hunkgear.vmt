@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\kuristaja\hunk\hunkgear"
+	"$bumpmap" "models\player\kuristaja\hunk\hunkgear_normal"
+
+	"$phong" "1"
+	"$phongBoost" ".05"
+	"$phongExponent" "40"
+	"$phongFresnelRanges" "[5 6 8]"
+	"$phongdisablehalflambert" "1"
+}

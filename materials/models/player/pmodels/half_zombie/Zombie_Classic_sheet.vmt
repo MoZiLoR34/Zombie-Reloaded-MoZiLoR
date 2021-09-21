@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/pmodels/half_zombie/Zombie_Classic_sheet"
+	"$bumpmap" "models/player/pmodels/half_zombie/Zombie_Classic_sheet_normal"
+}

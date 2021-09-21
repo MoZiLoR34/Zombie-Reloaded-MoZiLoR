@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\custom_player\eminem\bms\zombie_hev\zev_body_d"
+	"$bumpmap" "models\player\custom_player\eminem\bms\zombie_hev\zev_body_n"
+
+	"$phong" "1"
+	"$phongboost" "0.01"
+	"$phongexponent" 60
+	"$phongfresnelranges" "[.18 .4 .1]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"				// To enable rim lighting (requires phong)
+	"$rimlightexponent" "30"             // Exponent for phong component of rim lighting
+	"$rimlightboost" ".05"	               // Boost for ambient cube component of rim lighting
+
+	$detailscale 5
+	$detailblendfactor 0.0
+	$detailblendmode 0
+}

@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+ "$baseTexture" "models\player\custom_player\eminem\bms\shared_headcrab_classic/headcrabsheet"
+ "$bumpmap" "models\player\custom_player\eminem\bms\shared_headcrab_classic/headcrabsheet_normal"
+
+
+ "$phong"     "1"
+ "$phongexponent"   "35"
+ "$phongboost"   "10"
+ "$phongfresnelranges"   "[.5 .8 1]"
+}

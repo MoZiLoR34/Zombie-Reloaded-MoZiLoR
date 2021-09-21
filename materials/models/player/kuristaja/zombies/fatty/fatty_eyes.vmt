@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\kuristaja\zombies\fatty\fatty"
+	"$envmapmask" "models\player\kuristaja\zombies\fatty\fatty_normal"	
+	"$selfillum_envmapmask_alpha" "1"
+	"$selfillumtint" "[.1 .1 .1]"
+}

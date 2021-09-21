@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "engine/eye-iris-blue"
+	"$nodecal" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$basetexturetransform" "scale 0.900000 1.000000 translate 0.000000 0.000000 rotate -3.599991"
+}
