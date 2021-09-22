@@ -1,4 +1,4 @@
-# Zombie-Reloaded-MoZiLoR
+# Zombie-Reloaded-MoZiLoR Edition
 
 My version of CS:GO Zombie Reloaded based on Anubis's version: https://github.com/Stewart-Anubis/Sm-Zombiereloaded-3-Franug-Anubis-Edition
 
@@ -37,3 +37,8 @@ Zombies Knockback ( how much a zombie is pushed back when you shoot him ) has be
 -weapons.txt
 
 Although I recommend avoiding to change things as much as possible.
+
+
+I made my own maps ( curently 10 of them ) which are adapted to the different settings, you can download the here:
+
+https://gamebanana.com/members/1678108
