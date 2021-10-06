@@ -1,0 +1,395 @@
+"BuyCommands"
+{
+	"!he"
+	{
+		"weapon" "weapon_hegrenade"
+		"price" "0"
+		"times" "1"
+		"flags" "zo"
+	}
+	"!freeze"
+	{
+		"weapon" "weapon_decoy"
+		"price" "0"
+		"times" "1"
+		"flags" "zo"
+	}
+	"!molotov"
+	{
+		"weapon" "weapon_molotov"
+		"price" "0"
+		"times" "1"
+		"flags" "zo"
+	}
+	"!light"
+	{
+		"weapon" "weapon_flash"
+		"price" "0"
+		"times" "1"
+		"flags" "zo"
+	}
+	"!knife"
+	{
+		"weapon" "weapon_knife"
+		"price" "0"
+		"times" "3"
+	}
+	"!deagle"
+	{
+		"weapon" "weapon_deagle"
+		"price" "700"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!revolver"
+	{
+		"weapon" "weapon_revolver"
+		"price" "800"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!r8"
+	{
+		"weapon" "weapon_revolver"
+		"price" "800"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!elite"
+	{
+		"weapon" "weapon_elite"
+		"price" "400"
+		"times" "2"
+		"slot" "1" 
+	}
+	"dual"
+	{
+		"weapon" "weapon_elite"
+		"price" "400"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!p250"
+	{
+		"weapon" "weapon_p250"
+		"price" "300"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!tec9"
+	{
+		"weapon" "weapon_tec9"
+		"price" "500"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!cz"
+	{
+		"weapon" "weapon_cz75a"
+		"price" "500"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!cz75"
+	{
+		"weapon" "weapon_cz75a"
+		"price" "500"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!57"
+	{
+		"weapon" "weapon_fiveseven"
+		"price" "500"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!fiveseven"
+	{
+		"weapon" "weapon_fiveseven"
+		"price" "500"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!glock"
+	{
+		"weapon" "weapon_glock"
+		"price" "200"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!usp"
+	{
+		"weapon" "weapon_usp_silencer"
+		"price" "200"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!p2000"
+	{
+		"weapon" "weapon_hkp2000"
+		"price" "200"
+		"times" "2"
+		"slot" "1" 
+	}
+	"!m4"
+	{
+		"weapon" "weapon_m4a1"
+		"price" "3100"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!m4a1"
+	{
+		"weapon" "weapon_m4a1"
+		"price" "3100"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!m4s"
+	{
+		"weapon" "weapon_m4a1_silencer"
+		"price" "2900"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!m4a1s"
+	{
+		"weapon" "weapon_m4a1_silencer"
+		"price" "2900"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!ak"
+	{
+		"weapon" "weapon_ak47"
+		"price" "2700"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!ak47"
+	{
+		"weapon" "weapon_ak47"
+		"price" "2700"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!famas"
+	{
+		"weapon" "weapon_famas"
+		"price" "2050"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!galil"
+	{
+		"weapon" "weapon_galilar"
+		"price" "1800"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!aug"
+	{
+		"weapon" "weapon_aug"
+		"price" "3300"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!sg"
+	{
+		"weapon" "weapon_sg556"
+		"price" "3000"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!sg556"
+	{
+		"weapon" "weapon_sg556"
+		"price" "3000"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!p90"
+	{
+		"weapon" "weapon_p90"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!bizon"
+	{
+		"weapon" "weapon_bizon"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mp5"
+	{
+		"weapon" "weapon_mp5sd"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mp5sd"
+	{
+		"weapon" "weapon_mp5sd"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mp7"
+	{
+		"weapon" "weapon_mp7"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mp9"
+	{
+		"weapon" "weapon_mp9"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!ump"
+	{
+		"weapon" "weapon_ump45"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!ump45"
+	{
+		"weapon" "weapon_ump45"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mac"
+	{
+		"weapon" "weapon_mac10"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mac10"
+	{
+		"weapon" "weapon_mac10"
+		"price" "1500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!nova"
+	{
+		"weapon" "weapon_nova"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!xm"
+	{
+		"weapon" "weapon_xm1014"
+		"price" "2500"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!xm1014"
+	{
+		"weapon" "weapon_xm1014"
+		"price" "2500"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!sawed"
+	{
+		"weapon" "weapon_sawedoff"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!sawedoff"
+	{
+		"weapon" "weapon_sawedoff"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mag"
+	{
+		"weapon" "weapon_mag7"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!mag7"
+	{
+		"weapon" "weapon_mag7"
+		"price" "2500"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!negev"
+	{
+		"weapon" "weapon_negev"
+		"price" "5000"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!m249"
+	{
+		"weapon" "weapon_m249"
+		"price" "5000"
+		"times" "2"
+		"slot" "0"  
+	}
+	"!awp"
+	{
+		"weapon" "weapon_awp"
+		"price" "5000"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!g3"
+	{
+		"weapon" "weapon_g3sg1"
+		"price" "5000"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!g3sg1"
+	{
+		"weapon" "weapon_g3sg1"
+		"price" "5000"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!scar"
+	{
+		"weapon" "weapon_scar20"
+		"price" "5000"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!scar20"
+	{
+		"weapon" "weapon_scar20"
+		"price" "5000"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!ssg"
+	{
+		"weapon" "weapon_ssg08
+		"price" "1700"
+		"times" "2"
+		"slot" "0" 
+	}
+	"!ssg08"
+	{
+		"weapon" "weapon_ssg08
+		"price" "1700"
+		"times" "2"
+		"slot" "0" 
+	}
+
+}

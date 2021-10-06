@@ -1,0 +1,286 @@
+// ============================================================================
+//
+//                              ZOMBIE:RELOADED
+//                           Downloads configuration
+//
+// See Download List (3.6) section in the manual for detailed info.
+//
+// ============================================================================
+// * Each uncommented line will be used as a file path for clients to download.
+// ----------------------------------------------------------------------------
+// Defaults:
+// ----------------------------------------------------------------------------
+
+// team win overlays
+materials/overlays/zr/zombies_win.vtf
+materials/overlays/zr/zombies_win.vmt
+materials/overlays/zr/humans_win.vtf
+materials/overlays/zr/humans_win.vmt
+
+// zvision
+materials/overlays/zr/zvision.vtf
+materials/overlays/zr/zvision.vmt
+
+// csgo zombie sounds
+
+sound/zr/zombie_pain1.mp3
+sound/zr/zombie_pain2.mp3
+sound/zr/zombie_pain3.mp3
+sound/zr/zombie_pain4.mp3
+sound/zr/zombie_pain5.mp3
+sound/zr/zombie_pain6.mp3
+
+sound/zr/zombie_voice_idle1.mp3
+sound/zr/zombie_voice_idle2.mp3
+sound/zr/zombie_voice_idle3.mp3
+sound/zr/zombie_voice_idle4.mp3
+sound/zr/zombie_voice_idle5.mp3
+sound/zr/zombie_voice_idle6.mp3
+sound/zr/zombie_voice_idle7.mp3
+sound/zr/zombie_voice_idle8.mp3
+sound/zr/zombie_voice_idle9.mp3
+sound/zr/zombie_voice_idle10.mp3
+sound/zr/zombie_voice_idle11.mp3
+sound/zr/zombie_voice_idle12.mp3
+sound/zr/zombie_voice_idle13.mp3
+sound/zr/zombie_voice_idle14.mp3
+
+sound/zr/zombie_die1.mp3
+sound/zr/zombie_die2.mp3
+sound/zr/zombie_die3.mp3
+
+sound/ambient/zr/zr_ambience.mp3
+sound/zr/fz_scream1.mp3
+
+// Quake sounds
+
+sound/quake/contagion/female/bottomfeeder.mp3
+sound/quake/contagion/female/dominating.mp3
+sound/quake/contagion/female/firstblood.mp3
+sound/quake/contagion/female/godlike.mp3
+sound/quake/contagion/female/headshot.mp3
+sound/quake/contagion/female/holyshit.mp3
+sound/quake/contagion/female/humiliation.mp3
+sound/quake/contagion/female/killingspree.mp3
+sound/quake/contagion/female/monsterkill.mp3
+sound/quake/contagion/female/multikill.mp3
+sound/quake/contagion/female/prepare.mp3
+sound/quake/contagion/female/rampage.mp3
+sound/quake/contagion/female/ultrakill.mp3
+sound/quake/contagion/female/unstoppable.mp3
+sound/quake/contagion/female/wickedsick.mp3
+sound/quake/contagion/standard/monsterkill.mp3
+
+// Countdown
+
+sound/zr/countdown/contagion/1.mp3
+sound/zr/countdown/contagion/2.mp3
+sound/zr/countdown/contagion/3.mp3
+sound/zr/countdown/contagion/4.mp3
+sound/zr/countdown/contagion/5.mp3
+sound/zr/countdown/contagion/6.mp3
+sound/zr/countdown/contagion/7.mp3
+sound/zr/countdown/contagion/8.mp3
+sound/zr/countdown/contagion/9.mp3
+sound/zr/countdown/contagion/10.mp3
+
+// Round End Sounds Humans Win
+
+sound/roundend/humanswin/contagion/28joursplustard1.mp3
+sound/roundend/humanswin/contagion/28joursplustard2.mp3
+sound/roundend/humanswin/contagion/28joursplustard3.mp3
+sound/roundend/humanswin/contagion/28joursplustard4.mp3
+
+// Round End Sounds Zombie Wim
+
+sound/roundend/zombiewin/contagion/hl_horror1.mp3
+sound/roundend/zombiewin/contagion/hl_horror2.mp3
+sound/roundend/zombiewin/contagion/hl_horror3.mp3
+sound/roundend/zombiewin/contagion/hl_horror4.mp3
+
+
+// Human_normal
+
+materials/models/player/kuristaja/hunk/hunkgear.vmt
+materials/models/player/kuristaja/hunk/hunkgear.vtf
+materials/models/player/kuristaja/hunk/hunkgear_normal.vtf
+materials/models/player/kuristaja/hunk/hunklegs.vmt
+materials/models/player/kuristaja/hunk/hunklegs.vtf
+materials/models/player/kuristaja/hunk/hunklegs_normal.vtf
+materials/models/player/kuristaja/hunk/hunktorso.vmt
+materials/models/player/kuristaja/hunk/hunktorso.vtf
+materials/models/player/kuristaja/hunk/hunktorso_normal.vtf
+materials/models/player/kuristaja/hunk/lenses_black.vmt
+materials/models/player/kuristaja/hunk/lenses_black.vtf
+materials/models/player/kuristaja/hunk/lenses_black_normal.vtf
+models/player/custom_player/kuristaja/hunk/hunk.phy
+models/player/custom_player/kuristaja/hunk/hunk.vvd
+models/player/custom_player/kuristaja/hunk/hunk.dx90.vtx
+models/player/custom_player/kuristaja/hunk/hunk.mdl
+models/player/custom_player/kuristaja/hunk/hunk_arms.dx90.vtx
+models/player/custom_player/kuristaja/hunk/hunk_arms.mdl
+models/player/custom_player/kuristaja/hunk/hunk_arms.vvd
+
+// Humans VIP ADMIN
+// -- SAS
+materials/models/player/darnias/sas_william/balaclava.vtf
+materials/models/player/darnias/sas_william/balaclava_n.vtf
+materials/models/player/darnias/sas_william/balaclava.vmt
+materials/models/player/darnias/sas_william/goggles.vtf
+materials/models/player/darnias/sas_william/goggles.vmt
+materials/models/player/darnias/sas_william/head.vtf
+materials/models/player/darnias/sas_william/head_n.vtf
+materials/models/player/darnias/sas_william/head.vmt
+materials/models/player/darnias/sas_william/hood.vtf
+materials/models/player/darnias/sas_william/hood_n.vtf
+materials/models/player/darnias/sas_william/hood.vmt
+materials/models/player/darnias/sas_william/loadout.vtf
+materials/models/player/darnias/sas_william/loadout_n.vtf
+materials/models/player/darnias/sas_william/loadout.vmt
+materials/models/player/darnias/sas_william/lower.vtf
+materials/models/player/darnias/sas_william/lower_n.vtf
+materials/models/player/darnias/sas_william/lower.vmt
+materials/models/player/darnias/sas_william/pouch.vtf
+materials/models/player/darnias/sas_william/pouch_n.vtf
+materials/models/player/darnias/sas_william/pouch.vmt
+materials/models/player/darnias/sas_william/upper.vtf
+materials/models/player/darnias/sas_william/upper_n.vtf
+materials/models/player/darnias/sas_william/upper.vmt
+materials/models/player/darnias/sas_william/eyes.vmt
+models/player/custom_player/darnias/sas_william_fix.dx90.vtx
+models/player/custom_player/darnias/sas_william_fix.mdl
+models/player/custom_player/darnias/sas_william_fix.phy
+models/player/custom_player/darnias/sas_william_fix.vvd
+// SAS hands
+materials/models/player/kuristaja/cso2/707/ct_707_glove.vmt
+materials/models/player/kuristaja/cso2/707/ct_707_glove.vtf
+materials/models/player/kuristaja/cso2/707/ct_707_glove_normal.vtf
+materials/models/player/kuristaja/cso2/707/ct_707_hand.vmt
+materials/models/player/kuristaja/cso2/707/ct_707_hand.vtf
+materials/models/player/kuristaja/cso2/707/ct_707_hand_normal.vtf
+models/player/custom_player/kuristaja/cso2/707/707_arms.dx90.vtx
+models/player/custom_player/kuristaja/cso2/707/707_arms.mdl
+models/player/custom_player/kuristaja/cso2/707/707_arms.vvd
+
+// -- GSG 9
+
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_glass_normal.vtf
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_hand.vmt
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_hand.vtf
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_hand_normal.vtf
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_multi.vtf
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_normal.vtf
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg.vmt
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg.vtf
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_glass.vmt
+materials/models/player/kuristaja/cso2/gsg9/ct_gsg_glass.vtf
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9.dx90.vtx
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9.mdl
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9.phy
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9.vvd
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9_arms.vvd
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9_arms.dx90.vtx
+models/player/custom_player/kuristaja/cso2/gsg9/gsg9_arms.mdl
+
+// -- Helga
+
+materials/models/player/kuristaja/cso2/helga/ct_helga_glove_normal.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_hair.vmt
+materials/models/player/kuristaja/cso2/helga/ct_helga_hair.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_hair_normal.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_hair2.vmt
+materials/models/player/kuristaja/cso2/helga/ct_helga_hand.vmt
+materials/models/player/kuristaja/cso2/helga/ct_helga_hand.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_hand_normal.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_multi.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_normal.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga.vmt
+materials/models/player/kuristaja/cso2/helga/ct_helga.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_eyelashes.vmt
+materials/models/player/kuristaja/cso2/helga/ct_helga_eyelashes.vtf
+materials/models/player/kuristaja/cso2/helga/ct_helga_glove.vmt
+materials/models/player/kuristaja/cso2/helga/ct_helga_glove.vtf
+models/player/custom_player/kuristaja/cso2/helga/helga.dx90.vtx
+models/player/custom_player/kuristaja/cso2/helga/helga.mdl
+models/player/custom_player/kuristaja/cso2/helga/helga.phy
+models/player/custom_player/kuristaja/cso2/helga/helga.vvd
+models/player/custom_player/kuristaja/cso2/helga/helga_arms.mdl
+models/player/custom_player/kuristaja/cso2/helga/helga_arms.vvd
+models/player/custom_player/kuristaja/cso2/helga/helga_arms.dx90.vtx
+
+// Zombies
+
+// -- MotherZombie
+materials/models/player/custom_player/eminem/bms/shared_headcrab_classic/allinonebacup2.vtf
+materials/models/player/custom_player/eminem/bms/shared_headcrab_classic/headcrabsheet.vmt
+materials/models/player/custom_player/eminem/bms/shared_headcrab_classic/headcrabsheet.vtf
+materials/models/player/custom_player/eminem/bms/shared_headcrab_classic/headcrabsheet_normal.vtf
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_arms.vmt
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_arms_d.vtf
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_arms_n.vtf
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_body.vmt
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_body_d.vtf
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_body_n.vtf
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_flesh.vmt
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_flesh_d.vtf
+materials/models/player/custom_player/eminem/bms/zombie_hev/zev_flesh_n.vtf
+models/player/custom_player/eminem/bms/zombie_hev/zombie_hev_headcrab.dx90.vtx
+models/player/custom_player/eminem/bms/zombie_hev/zombie_hev_headcrab.mdl
+models/player/custom_player/eminem/bms/zombie_hev/zombie_hev_headcrab.phy
+models/player/custom_player/eminem/bms/zombie_hev/zombie_hev_headcrab.vvd
+
+// -- Classic
+materials/models/player/kuristaja/zombies/classic/zombie_classic_sheet.vmt
+materials/models/player/kuristaja/zombies/classic/zombie_classic_sheet.vtf
+materials/models/player/kuristaja/zombies/classic/zombie_classic_sheet_normal.vtf
+models/player/kuristaja/zombies/classic/classic.dx90.vtx
+models/player/kuristaja/zombies/classic/classic.mdl
+models/player/kuristaja/zombies/classic/classic.phy
+models/player/kuristaja/zombies/classic/classic.vvd
+
+// -- Corpse
+materials/models/player/kuristaja/zombies/corpse/corpse1.vmt
+materials/models/player/kuristaja/zombies/corpse/corpse_normal.vtf
+materials/models/player/kuristaja/zombies/corpse/corpse1.vtf
+models/player/kuristaja/zombies/corpse/corpse.dx90.vtx
+models/player/kuristaja/zombies/corpse/corpse.mdl
+models/player/kuristaja/zombies/corpse/corpse.phy
+models/player/kuristaja/zombies/corpse/corpse.vvd
+
+// -- Fatty 
+materials/models/player/kuristaja/zombies/fatty/fatty.vmt
+materials/models/player/kuristaja/zombies/fatty/fatty_eyes.vmt
+materials/models/player/kuristaja/zombies/fatty/fatty.vtf
+materials/models/player/kuristaja/zombies/fatty/fatty_normal.vtf
+models/player/kuristaja/zombies/fatty/fatty.dx90.vtx
+models/player/kuristaja/zombies/fatty/fatty.mdl
+models/player/kuristaja/zombies/fatty/fatty.phy
+models/player/kuristaja/zombies/fatty/fatty.vvd
+
+// -- Charple
+materials/models/player/kuristaja/zombies/charple/charple1_sheet.vmt
+materials/models/player/kuristaja/zombies/charple/charple1_normal.vtf
+materials/models/player/kuristaja/zombies/charple/charple1_sheet.vtf
+models/player/kuristaja/zombies/charple/charple.dx90.vtx
+models/player/kuristaja/zombies/charple/charple.mdl
+models/player/kuristaja/zombies/charple/charple.phy
+models/player/kuristaja/zombies/charple/charple.vvd
+
+// -- Crawler
+materials/models/player/pmodels/half_zombie/Zombie_Classic_sheet.vmt
+materials/models/player/pmodels/half_zombie/Zombie_Classic_sheet.vtf
+materials/models/player/pmodels/half_zombie/Zombie_Classic_sheet_normal.vtf
+models/player/pmodels/half_zombie/half_zombie.dx90.vtx
+models/player/pmodels/half_zombie/half_zombie.mdl
+models/player/pmodels/half_zombie/half_zombie.phy
+models/player/pmodels/half_zombie/half_zombie.vvd
+
+// Zombies Arms
+
+materials/models/player/bbs_93x_net/zombie/hand/zombie_fp.vmt
+materials/models/player/bbs_93x_net/zombie/hand/zombie_fp.vtf
+materials/models/player/bbs_93x_net/zombie/hand/zombie_fp2.vmt
+materials/models/player/bbs_93x_net/zombie/hand/zombie_fp_nm.vtf
+models/player/bbs_93x_net/zombie/zm_arms_normal.dx90.vtx
+models/player/bbs_93x_net/zombie/zm_arms_normal.mdl
+models/player/bbs_93x_net/zombie/zm_arms_normal.vvd

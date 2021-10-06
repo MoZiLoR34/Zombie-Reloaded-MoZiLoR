@@ -1,0 +1,40 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{lightred}Useful commands: {green}!zmenu !music !quake !rtv"
+    }
+    "2"
+    {
+        "chat"		"{lightred}If you are having fun, please consider helping to pay for the server and get a {gold}[VIP] {lightred}tag in chat and scoreboard, a special {gold}player skin  {lightred}and {gold}chat color."
+    }
+    "3"
+    {
+        "chat"			"{lightred}Type {green}rtv {lightred}to begin an early map vote and {green}nominate {lightred}to add available maps to the vote list."
+    }
+    "4"
+    {
+        "chat"			"{lightred}Useful commands: {green}!zmenu !music !quake !rtv"
+    }
+    "5"
+    {
+        "chat"			"{lightred}Spending a lot of time on the server will earn you ranks, there are 4 different ranks, each requiring 60 hours to earn, reach the last rank {orchid}[STALKER] {lightred}and get free access to {gold}[VIP] {lightred}skins plus a unique {orchid}chat color {lightred}permanently."
+    }
+}
