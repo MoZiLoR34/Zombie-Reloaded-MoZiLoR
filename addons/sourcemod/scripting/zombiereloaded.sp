@@ -51,7 +51,7 @@
 	#define ACTION_HANDLED	  ZRTools_Handled
 #endif
 
-#define VERSION "3.5-A Franug,Anubis edition"
+#define VERSION "3.5-A MoZiLoR edition"
 
 bool g_allweapons[MAXPLAYERS + 1];
 
@@ -130,10 +130,10 @@ bool g_allweapons[MAXPLAYERS + 1];
 public Plugin:myinfo =
 {
 	name = "Zombie:Reloaded",
-	author = "Greyscale | Richard Helgeby and Franc1sco franug ,Anúbis",
+	author = "Greyscale | Richard Helgeby and Franc1sco franug | Anubis | MoZiLoR and Cruze",
 	description = "Infection/survival style gameplay",
 	version = VERSION,
-	url = "https://github.com/Franc1sco/sm-zombiereloaded-3-Franug-Edition"
+	url = "https://github.com/MoZiLoR34/Zombie-Reloaded-MoZiLoR | https://github.com/Franc1sco/sm-zombiereloaded-3-Franug-Edition"
 };
 
 /**
